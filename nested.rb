@@ -14,7 +14,7 @@ def hopper
           :known_for => "Unix",
           :languages => ["C"]
         }
-        grace_hopper
+        puts grace_hopper
      }
 
 
